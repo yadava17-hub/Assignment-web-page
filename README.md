@@ -67,7 +67,7 @@ The seed data needed to be realistic — generic placeholder data would undermin
 - `powerequipment.honda.com`, `atlascopco.com`, `boschtools.com` — official manufacturer specs
 - NY OGS state contract rate schedule — government benchmark for heavy equipment rental
 
-All 14 seed items have real specs, real market values, and defensible billing rates. A separate [source reference document](./fleet-catalog-source-references.pdf) records exactly where each data point came from.
+All 14 seed items have real specs, real market values, and defensible billing rates.
 
 ---
 
